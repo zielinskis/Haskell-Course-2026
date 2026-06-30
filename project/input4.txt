@@ -1,0 +1,6 @@
+window 50 x 10 {
+  row {
+    box { width: 30px; height: 100%; color: red }
+    box { width: 30px; height: 100%; color: blue }
+  }
+}

@@ -1,0 +1,6 @@
+window 80 x 20 {
+  row {
+    box { width: 50%; height: 100%; color: red }
+    box { width: 50%; height: 100%; color: blue }
+  }
+}

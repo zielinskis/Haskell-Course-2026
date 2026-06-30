@@ -41,7 +41,7 @@ How you split leftover space when children's sizes are *smaller* than the parent
 
 ## Example Layout
 ```
-window "Main" 800 x 600 {
+window 800 x 600 {
   row {
     box { width: 20%, height: 100%, color: red  }
     box { width: 80%, height: 100%, color: blue }

@@ -1,1 +1,0 @@
-# Haskell-Course-2026
